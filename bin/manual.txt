@@ -1,0 +1,13 @@
+Ctrl + A                        Adiciona nova linha
+Ctrl + D                        Remove a linha selecionada
+Ctrl + R                        Muda a cor da linha
+Ctrl + F                        Adiciona um marcador
+Ctrl + Alt + F                  Remove um marcador (par)
+
+Cima/Baixo                      Muda a linha selecionada
+Esquerda/Direita                Muda o ângulo da linha selecionada
+
+Ctrl + Cima/Baixo               Muda a graduação de 0.01
+Ctrl + Shift + Cima/Baixo       Muda a graduação de 0.1 em 0.1
+
+A graduação é o valor em graus que é aumentado/diminuido do ângulo de uma linha quando tu usa esquerda/direita.
